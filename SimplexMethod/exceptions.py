@@ -1,0 +1,2 @@
+class CoefException(Exception):
+    pass
